@@ -13,7 +13,7 @@
 
     - Мінімалістичний дизайн зосереджується на найважливіших елементах, зменшуючи кількість відволікаючих факторів. Це сприяє зменшенню когнітивного навантаження, дозволяючи користувачам легше концентруватися на виконанні завдань.
 
-    - _Цитата:_ “Мінімалістичний дизайн суттєво зменшує когнітивне навантаження на користувача, сприяючи швидшому прийняттю рішень.” ([Сміт & Джонсон, 2022](https://www.smashingmagazine.com/2021/04/reducing-cognitive-overload-user-experience/)).
+    - _Цитата:_ «Можливим рішенням може бути адаптація інтерфейсів людина-комп'ютер (HCI) до когнітивного навантаження операторів. Наприклад, зовнішній вигляд інтерфейсу користувача може бути відповідним чином адаптований на основі виявлення фактичного ступеня когнітивного навантаження.».[Theory-based approach for assessing cognitive load during time-critical resource-managing human–computer interactions: an eye-tracking study](https://link.springer.com/article/10.1007/s12193-022-00398-y)
 
   - **Мінімалізм у дизайні для віртуальної реальності (VR):**
 
@@ -57,3 +57,11 @@
 
 - **Дизайн для віртуальної та доповненої реальності:**
   - З розвитком VR і AR технологій, дизайн інтерфейсів адаптується до тривимірного простору, де мінімалізм і гештальт-принципи грають важливу роль у забезпеченні зручності користувацького досвіду.
+
+
+
+
+
+“_Simplified, clean, and minimalistic designs reduce cognitive load by presenting only the most necessary elements to the user, thus making it easier to process information and complete tasks._”
+
+— [Interaction Design Foundation](https://www.interaction-design.org/literature/article/minimalism-in-interaction-design).
